@@ -1,0 +1,13 @@
+header{
+    background-color: yellowgreen;
+}
+#cr7{
+    background-color: aqua;
+}
+#lm10{
+    background-color: red;
+    color: white;
+}
+#cr7::first-letter{
+    color: rgb(17, 1, 1);
+}
